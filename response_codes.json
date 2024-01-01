@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "code": 9000,
+        "status": true,
+        "message": "Operation Success"
+    },
+    {
+        "id": "2",
+        "code": 9001,
+        "status": false,
+        "message": "Access Denied, You don't have Permission to perform this Action"
+    },
+    {
+        "id": "3",
+        "code": 9002,
+        "status": true,
+        "message": "User created already exists"
+    },
+    {
+        "id": "4",
+        "code": 9003,
+        "status": false,
+        "message": "Sorry! Fail to perform the action. Some error occurred during request processing"
+    },
+    {
+        "id": "5",
+        "code": 9004,
+        "status": true,
+        "message": "You have login Successfully"
+    },
+    {
+        "id": "6",
+        "code": 9005,
+        "status": false,
+        "message": "Sorry! Credentials provided are not valid"
+    },
+    {
+        "id": "7",
+        "code": 9006,
+        "status": false,
+        "message": "Duplicate Record. Saved data is already exist"
+    },
+    {
+        "id": "8",
+        "code": 9007,
+        "status": false,
+        "message": "Improper user input supplied. Make sure you supplied the correct inputs data"
+    },
+    {
+        "id": "9",
+        "code": 9008,
+        "status": false,
+        "message": "Record not found"
+    },
+    {
+        "id": "10",
+        "code": 9009,
+        "status": false,
+        "message": "Cant query your data. You need to provide the mandatory filters"
+    },
+    {
+        "id": "34",
+        "code": 9035,
+        "status": false,
+        "message": "Password mismatch"
+    } ,
+    {
+        "id": "35",
+        "code": 9036,
+        "status": false,
+        "message": "Invalid or expired password Reset Password Token"
+    } ,
+
+    {
+        "id": "38",
+        "code": 9039,
+        "status": false,
+        "message": "File is more than 60mb"
+    } 
+
+]
